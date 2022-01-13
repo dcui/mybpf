@@ -1,4 +1,4 @@
-#!/usr/local/bin/env bpftrace
+#!/usr/local/bin/bpftrace
 
 #include <net/sock.h>
 
